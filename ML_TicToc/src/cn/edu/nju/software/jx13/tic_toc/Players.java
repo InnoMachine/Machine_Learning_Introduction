@@ -1,0 +1,6 @@
+package cn.edu.nju.software.jx13.tic_toc;
+
+public enum Players {
+	X,//HUMAN
+	O;//PC
+}
